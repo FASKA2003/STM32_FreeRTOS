@@ -25,6 +25,7 @@ int main(void) {
   xTaskCreate(vTask2_handler, "Print_Task2", configMINIMAL_STACK_SIZE, NULL, 2,
               &xTaskHandle2);
 
+  // call the schedular
   vTaskStartScheduler();
 
   return 0;
