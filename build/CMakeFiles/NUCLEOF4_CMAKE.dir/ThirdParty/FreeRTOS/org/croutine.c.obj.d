@@ -1,0 +1,21 @@
+CMakeFiles/NUCLEOF4_CMAKE.dir/ThirdParty/FreeRTOS/org/croutine.c.obj: \
+ /home/itsmeayoub/Documents/AYOUB/Coding/STM32_FreeRTOS/ThirdParty/FreeRTOS/org/croutine.c \
+ /home/itsmeayoub/Documents/AYOUB/Coding/STM32_FreeRTOS/ThirdParty/FreeRTOS/org/include/FreeRTOS.h \
+ /home/itsmeayoub/Documents/Compilers/gcc-arm-none-eabi/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+ /home/itsmeayoub/Documents/Compilers/gcc-arm-none-eabi/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h \
+ /home/itsmeayoub/Documents/Compilers/gcc-arm-none-eabi/arm-none-eabi/include/stdint.h \
+ /home/itsmeayoub/Documents/Compilers/gcc-arm-none-eabi/arm-none-eabi/include/machine/_default_types.h \
+ /home/itsmeayoub/Documents/Compilers/gcc-arm-none-eabi/arm-none-eabi/include/sys/features.h \
+ /home/itsmeayoub/Documents/Compilers/gcc-arm-none-eabi/arm-none-eabi/include/_newlib_version.h \
+ /home/itsmeayoub/Documents/Compilers/gcc-arm-none-eabi/arm-none-eabi/include/sys/_intsup.h \
+ /home/itsmeayoub/Documents/Compilers/gcc-arm-none-eabi/arm-none-eabi/include/sys/_stdint.h \
+ /home/itsmeayoub/Documents/AYOUB/Coding/STM32_FreeRTOS/Config/FreeRTOSConfig.h \
+ /home/itsmeayoub/Documents/AYOUB/Coding/STM32_FreeRTOS/Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h \
+ /home/itsmeayoub/Documents/AYOUB/Coding/STM32_FreeRTOS/ThirdParty/FreeRTOS/org/include/projdefs.h \
+ /home/itsmeayoub/Documents/AYOUB/Coding/STM32_FreeRTOS/ThirdParty/FreeRTOS/org/include/portable.h \
+ /home/itsmeayoub/Documents/AYOUB/Coding/STM32_FreeRTOS/ThirdParty/FreeRTOS/org/include/deprecated_definitions.h \
+ /home/itsmeayoub/Documents/AYOUB/Coding/STM32_FreeRTOS/ThirdParty/FreeRTOS/org/portable/GCC/ARM_CM4F/portmacro.h \
+ /home/itsmeayoub/Documents/AYOUB/Coding/STM32_FreeRTOS/ThirdParty/FreeRTOS/org/include/mpu_wrappers.h \
+ /home/itsmeayoub/Documents/AYOUB/Coding/STM32_FreeRTOS/ThirdParty/FreeRTOS/org/include/task.h \
+ /home/itsmeayoub/Documents/AYOUB/Coding/STM32_FreeRTOS/ThirdParty/FreeRTOS/org/include/list.h \
+ /home/itsmeayoub/Documents/AYOUB/Coding/STM32_FreeRTOS/ThirdParty/FreeRTOS/org/include/croutine.h

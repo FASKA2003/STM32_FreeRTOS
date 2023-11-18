@@ -1,0 +1,3 @@
+/home/itsmeayoub/Documents/AYOUB/Coding/STM32_FreeRTOS/build/CMakeFiles/NUCLEOF4_CMAKE.dir
+/home/itsmeayoub/Documents/AYOUB/Coding/STM32_FreeRTOS/build/CMakeFiles/edit_cache.dir
+/home/itsmeayoub/Documents/AYOUB/Coding/STM32_FreeRTOS/build/CMakeFiles/rebuild_cache.dir
