@@ -1,7 +1,7 @@
-#include "./../../ThirdParty/FreeRTOS/org/include/FreeRTOS.h"
-#include "./../../ThirdParty/FreeRTOS/org/include/task.h"
+#include <FreeRTOS.h>
 #include <stm32f4xx.h>
 #include <stm32f4xx_hal_rcc.h>
+#include <task.h>
 
 // Taks handlers types.
 TaskHandle_t xTaskHandle1 = NULL;
@@ -24,6 +24,8 @@ int main(void) {
 
   xTaskCreate(vTask2_handler, "Print_Task2", configMINIMAL_STACK_SIZE, NULL, 2,
               &xTaskHandle2);
+
+  vTaskStartScheduler();
 
   return 0;
 }
