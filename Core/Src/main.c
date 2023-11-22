@@ -10,6 +10,11 @@ TaskHandle_t xTaskHandle2 = NULL;
 // Task handlers prototypes.
 void vTask1_handler(void *parameter);
 void vTask2_handler(void *parameter);
+void vApplicationIdleHook(void);
+void vApplicationGetIdleTaskMemory(StaticTask_t **ppxIdleTaskTCBBuffer,
+                                   StackType_t **ppxIdleTaskStackBuffer,
+                                   uint32_t *pulIdleTaskStackSize);
+void vApplicationGetTimerTaskMemory(void);
 
 int main(void) {
   // reset the RCC clock configuration to the default state :
@@ -36,6 +41,20 @@ void vTask1_handler(void *parameter) {
   }
 }
 void vTask2_handler(void *parameter) {
+  while (1) {
+  }
+}
+void vApplicationIdleHook(void) {
+  while (1) {
+  }
+}
+void vApplicationGetIdleTaskMemory(StaticTask_t **ppxIdleTaskTCBBuffer,
+                                   StackType_t **ppxIdleTaskStackBuffer,
+                                   uint32_t *pulIdleTaskStackSize) {
+  while (1) {
+  }
+}
+void vApplicationGetTimerTaskMemory(void) {
   while (1) {
   }
 }
